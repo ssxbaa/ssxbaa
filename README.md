@@ -4,5 +4,5 @@
 
 <div align="center" dir="auto">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ssxbaa&theme=github_dark"></img>
+  <img style="max-width:100%" src="https://github-readme-stats.vercel.app/api?username=ssxbaa&theme=github_dark"></img>
 </div>
