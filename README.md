@@ -1,4 +1,4 @@
-<div align="center" dir="auto">
+<div align="left" dir="auto">
   
   <h1> 👋 • Hi, I'm Sebastiano </h1>
 
