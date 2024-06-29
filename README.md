@@ -22,6 +22,6 @@ Hi, i'm <b>Seba</b>! I'm a Developer from <b>Italy</b>, and I create bugs since 
 
 # 📌 • Check out these!
 
-  <h3> • <a href="https://github.com/ssxbaa/DsChatBridge/"> DsChatBridge </a> - A Discord Bot for your private server that you can self-host and expand. </h3>
+  <h3> • <a href="https://github.com/ssxbaa/DsChatBridge/"> DsChatBridge </a> - A Discord Bot that connects 2 or more chat, from different servers. </h3>
   <h3> • <a href="https://github.com/ssxbaa/EzDiscordBot/"> EzDiscordBot </a> - A Discord Bot for your private server that you can self-host and expand. </h3>
   <h3> • <a href="https://github.com/ssxbaa/BrawlJS"> BrawlJS </a> - A ready-to-use telegram bot that displays Brawl Stars Informations. </h3>
