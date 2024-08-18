@@ -6,4 +6,4 @@ Hi, i'm <b>Seba</b>! I'm a Developer from <b>Italy</b>, and I create bugs since 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1213198625610408046)](https://discord.com/users/1213198625610408046)
 
-# 🔗 • [seba.is-a.dev](seba.is-a.dev)
+# 🔗 • <a href="seba.is-a.dev" target="_blank">seba.is-a.dev</a>
