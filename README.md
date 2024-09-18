@@ -53,5 +53,5 @@ C:\Users\Sebastiano> node bio.js
 ```
 
 ```Console
-Hello! I'm Sebastiano, I code bugs since 2020.
+Hello! I'm Sebastiano, I code since 2020.
 ```
