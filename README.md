@@ -2,7 +2,7 @@
 
 <!-- OSes, Programming languages and IDEs -->
 
-<img height="1px">
+<br>
 <div align="center" style="display: flex; flex-direction: row;">
   <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
   <img width="10px">
@@ -28,11 +28,11 @@
   <img width="10px">
   <img src="https://img.shields.io/badge/Rider-CF0E5F?logo=rider&logoColor=fff">
 </div>
-<img height="1px">
+
 
 <h1></h1>
 
-<img height="1px">
+<br>
 
 ```JavaScript
 class Ssxbaa extends Developer {
@@ -43,15 +43,7 @@ class Ssxbaa extends Developer {
       this.languages = ["HTML", "CSS", "JavaScript", "C#"];
       this.website = "https://seba.is-a.dev";
     }
-    showBio() {
-      console.log(`Hi, I'm ${this.name}, I'm ${this.age} and I code bugs since 2020.`);
-    }
 }
   
 const myself = new Ssxbaa();
-myself.showBio();
-```
-
-```
-Output: Hi, I'm Sebastiano, I'm 16 and I code bugs since 2020.
 ```
