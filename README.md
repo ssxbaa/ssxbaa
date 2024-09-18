@@ -17,9 +17,12 @@
   <img width="10px">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
   <img width="10px">
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
+</div>
+<div align="center" style="display: flex; flex-direction: row;">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
   <img width="10px">
-  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
 </div>
 <div align="center" style="display: flex; flex-direction: row;">
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
@@ -34,16 +37,21 @@
 
 <br>
 
-```JavaScript
-class Ssxbaa extends Developer {
-    constructor() {
-      this.name = "Sebastiano";
-      this.username = "ssxbaa";
-      this.age = 16;
-      this.languages = ["HTML", "CSS", "JavaScript", "C#"];
-      this.website = "https://seba.is-a.dev";
-    }
+```Json
+{
+  "name": "Sebastiano",
+  "age": 16,
+  "hobbies": [
+    "gym", "coding", "gaming", "music"
+  ],
+  "website": "https://seba.is-a.dev"
 }
-  
-const myself = new Ssxbaa();
+```
+
+```Console
+C:\Users\Sebastiano> node bio.js
+```
+
+```Console
+Hello! I'm Sebastiano, I code bugs since 2020.
 ```
