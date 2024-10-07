@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
 </div>
 <div align="center" style="display: flex; flex-direction: row;">
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff">
   <img width="10px">
   <img src="https://img.shields.io/badge/WebStorm-FDF84B?logo=webstorm&logoColor=000">
   <img width="10px">
