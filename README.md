@@ -4,11 +4,9 @@
 
 <br>
 <div align="center" style="display: flex; flex-direction: row;">
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
   <img width="10px">
   <img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white">
-  <img width="10px">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
 </div>
 <div align="center" style="display: flex; flex-direction: row;">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
