@@ -10,8 +10,6 @@
   <img width="10px">
   <a href="https://t.me/insgamabile"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"></a>
   <img width="10px">
-  <a href="https://github.com/ssxbaa"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
-  <img width="10px">
   <a href="https://fiverr.com/ssxbaathedev"><img src="https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff"></a>
   <img width="10px">
   <a href="https://soundcloud.com/ssxbaa"><img src="https://img.shields.io/badge/Soundcloud-FF3300?logo=Soundcloud&logoColor=white"></a>
