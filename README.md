@@ -47,7 +47,7 @@
 ```
 
 ```Console
-C:\Users\Sebastiano> node bio.js
+root@seba:~$ > node bio.js
 Hi! I'm Seba and I code since 2020.
 ```
 
