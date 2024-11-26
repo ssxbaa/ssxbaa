@@ -66,7 +66,7 @@
 ```
 
 ```Console
-root@seba:~$ > node bio.js
+root@seba:~$ > whoami
 Hi! I'm Seba and I code since 2020.
 ```
 
